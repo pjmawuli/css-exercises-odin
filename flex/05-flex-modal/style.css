@@ -16,35 +16,11 @@ body {
 }
 
 .modal {
-  padding: 20px;
   background: white;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  display: flex;
-  gap: 15px;
 }
-
-.header-section {
-  display: flex;
-  justify-content: space-between;
-}
-
-.second-section {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.header {
-  font-weight: bold;
-}
-
-.button-section {
-  display: flex;
-  gap: 20px;
-}
-
 
 .icon {
   color: royalblue;
